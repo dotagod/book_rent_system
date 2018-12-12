@@ -51,7 +51,7 @@ class novel(Book):
 			
 def main():
 	# Reading txt file as input
-	file = open(r"C:\\Users\\GOD\\Desktop\\story2.txt")
+	file = open(r"C:\\Users\\GOD\\Desktop\\story3.txt")
 	input_list = file.readlines()
 	total = 0
 	for each in input_list:
