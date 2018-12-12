@@ -1,0 +1,5 @@
+In first story we are simply taking two inputs from a text file of days and number of books.
+
+There are two files story1.txt file contains input and story1.py file contains the code to run it.
+
+Program takes input from story1.txt file and result comes on basis of input. To change input change the inputs of story1.txt file.

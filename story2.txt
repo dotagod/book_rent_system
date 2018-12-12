@@ -1,0 +1,3 @@
+Freakonomics,3,regular
+Inferno,5,fiction
+Man's Search for meaning,3,novel
