@@ -1,9 +1,18 @@
+Story1:
+In Story 1 we are taking two inputs days and number of books from a text file.
+Story 1 contains two files story1.txt which contains input and story1.py which contains the code.
+Program takes input from story1.txt file and result comes on basis of input. To change input change the inputs of story1.txt file.
+
+
+Story2:
 In third story we are taking two inputs from a text file of book title, days and book category.
+third story involves two files story2.txt file contains input and story2.py file contains the code to run it.
+Program takes input from story2.txt file and result comes on basis of input. To change input change the inputs of story2.txt file.
 
+Stroy3:
+In third story we are taking two inputs from a text file of book title, days and book category.
 third story involves two files story3.txt file contains input and story3.py file contains the code to run it.
-
 Program takes input from story3.txt file and result comes on basis of input. To change input change the inputs of story3.txt file.
-
 In third story there is small change in class method else everything is same as the second story.
 
 
